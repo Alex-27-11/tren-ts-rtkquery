@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tren-ts-rtkquery/static/css/main.3de442d6.css",
+    "main.js": "/tren-ts-rtkquery/static/js/main.ac08bffc.js",
+    "index.html": "/tren-ts-rtkquery/index.html",
+    "main.3de442d6.css.map": "/tren-ts-rtkquery/static/css/main.3de442d6.css.map",
+    "main.ac08bffc.js.map": "/tren-ts-rtkquery/static/js/main.ac08bffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3de442d6.css",
+    "static/js/main.ac08bffc.js"
+  ]
+}
